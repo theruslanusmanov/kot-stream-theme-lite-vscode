@@ -1,4 +1,4 @@
-# Kot Stream Theme Lite
+# KotStream Theme Lite
 
 ![Icon](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-lite-vscode/master/icon.png "Icon")
 
@@ -12,4 +12,3 @@ To get the full theme experience set the following settings in VSCode:
 ```
 
 **Enjoy!**
-"# kot-stream-theme-lite-vscode" 
