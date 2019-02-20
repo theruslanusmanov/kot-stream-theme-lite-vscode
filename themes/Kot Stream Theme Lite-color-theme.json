@@ -478,5 +478,19 @@
 				"foreground": "#000000",
 			}
 		},
+		{
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#000080",
+				"fontStyle": "bold",
+			}
+		},
+		{
+			"scope": "variable.scss",
+			"settings": {
+				"foreground": "#000080",
+				"fontStyle": "bold",
+			}
+		},
 	]
 }
