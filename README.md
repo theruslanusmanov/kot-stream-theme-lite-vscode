@@ -7,7 +7,7 @@
 This lightweight theme based on default JetBrains color scheme.
 
 ## Info
-This theme has been optimized for JavaScript, TypeScript, CSS, SASS(SCSS), HTML and Shell. Other languages are not tested and may differ from the github code styles. Please file an issue or submit a PR in this case.
+This theme has been optimized for JavaScript, TypeScript, PHP, CSS, SASS(SCSS), HTML and Shell. Other languages are not tested and may differ from the github code styles. Please file an issue or submit a PR in this case.
 
 To get the full theme experience set the following settings in VSCode:     
 ```
@@ -15,4 +15,5 @@ To get the full theme experience set the following settings in VSCode:
 "editor.fontSize": 13
 ```
 
-**Enjoy!**
+## License
+[MIT](LICENSE) © [Ruslan Usmanov](https://github.com/owlruslan)
