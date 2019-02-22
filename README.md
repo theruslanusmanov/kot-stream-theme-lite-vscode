@@ -33,5 +33,8 @@ To get the full theme experience set the following settings in VSCode:
 ### YAML
 ![YAML](https://raw.githubusercontent.com/owlruslan/kot-stream-theme-lite-vscode/master/yaml.png "YAML")
 
+## See also
+A lightweight theme based on default JetBrains color scheme [KotStream Theme on Github](https://github.com/owlruslan/kot-stream-theme-vscode) and [KotStream Theme on Market](https://marketplace.visualstudio.com/items?itemName=RuslanUsmanov.kot-stream-theme).
+
 ## License
 [MIT](LICENSE) © [Ruslan Usmanov](https://github.com/owlruslan)
