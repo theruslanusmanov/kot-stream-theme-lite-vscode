@@ -240,7 +240,8 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#008000"
+				"foreground": "#008000",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -501,7 +502,8 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#000000",
+				"foreground": "#660E7A",
+				"fontStyle": "bold"
 			}
 		},
 		{
